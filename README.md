@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Blah Blah Blah
+Hello world
